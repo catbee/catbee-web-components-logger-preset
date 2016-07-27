@@ -1,0 +1,25 @@
+{
+  "name": "catbee-web-components-logger-preset",
+  "version": "0.0.1",
+  "description": "Preset to translate catbee-web-components events to catbee-logger",
+  "main": "server.js",
+  "browser": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/catbee/catbee-web-components-logger-preset.git"
+  },
+  "keywords": [
+    "catbee",
+    "logger",
+    "webcomponents"
+  ],
+  "author": "Eugeny Dementev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/catbee/catbee-web-components-logger-preset/issues"
+  },
+  "homepage": "https://github.com/catbee/catbee-web-components-logger-preset#readme"
+}
