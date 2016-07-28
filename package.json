@@ -4,9 +4,6 @@
   "description": "Preset to translate catbee-web-components events to catbee-logger",
   "main": "server.js",
   "browser": "client.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/catbee/catbee-web-components-logger-preset.git"
