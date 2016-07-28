@@ -10,7 +10,6 @@ module.exports = {
       .on('componentBound', (name) => logger.debug(`Component "${name}" is bound`))
       .on('componentUnbound', (name) => logger.debug(`Component "${name}" is unbound`))
       .on('componentBindWatcher', (name) => logger.debug(`Component "${name}" watcher is bound`))
-      .on('componentWatcherUnbind', (name) => logger.debug(`Component "${name}" watcher is unbound`))
-      .on('componentStateChanged', (id, name) => logger.debug(`Component "${name}" watcher update`))
+      .on('componentWatcherUnbind', (name) => logger.debug(`Component "${name}" watcher is unbound`));
   }
 };
