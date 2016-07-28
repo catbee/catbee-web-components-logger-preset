@@ -1,6 +1,6 @@
 {
   "name": "catbee-web-components-logger-preset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Preset to translate catbee-web-components events to catbee-logger",
   "main": "server.js",
   "browser": "client.js",
